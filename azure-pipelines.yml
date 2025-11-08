@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: default
+  name: Default
   demands:
   - agent.name -equals MyWindowsAgent
 
